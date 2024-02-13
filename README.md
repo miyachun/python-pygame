@@ -5,4 +5,7 @@ a02->https://github.com/hibyby/GrandmaCan_first_pygame/blob/main/main.py
 a03->https://raw.githubusercontent.com/pecu/PecuLab4SEP/main/PyGame/Pecu/TufOfWar.py  
   
 a04->https://github.com/baraltech/Jumping-PyGame  
+  
+a05->https://pythonprogramming.altervista.org/python-and-classic-arcade-games-pong/  
+  
 
